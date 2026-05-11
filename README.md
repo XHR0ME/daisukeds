@@ -3,7 +3,7 @@
 
 [English](README.md) | [Русский](README.ru.md)
 
-![Avatar](/poster2.png)
+![Avatar](/image.png)
 
 A male virtual singer with a bright voice. Diverse vocal modes make it possible to achieve different emotions in seven different languages!
 
