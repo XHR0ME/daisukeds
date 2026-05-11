@@ -9,7 +9,7 @@ A male virtual singer with a bright voice. Diverse vocal modes make it possible 
 
 Native language: Russian
 
-Dataset includes: Russian, Japanese, English
+Dataset includes: Russian, Japanese, English, Chinese, Korean, Portuguese, French.
 
 Features 7 different vocal modes:
 
