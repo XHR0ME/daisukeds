@@ -41,19 +41,6 @@ Features 7 different vocal modes:
 - Seek author permission to create political content.
 - Commercial Use: Need a permission.
 - Criminal or illegal content prohibited
-- Explicit underage sexual content prohibited
-- Bigotry and hateful content prohibited
-- Do not create content that discredits the voicer, fake information
-- Do not create religious content that harm others feelings.
-- Reverse Engineering: It is strictly prohibited to reverse engineer, decompile, decrypt, extract the model, or perform any similar actions on this VoiceBank.
-- Porting into another vocal engines is prohibited! (SVS or voice cloning such us RVC)
-- You can edit this voicebank's audio in any way.
-- You are free to edit any configuration files.
-- Before this voicebank is discontinued, you may only share configuration files, such as configs.
-- After this voicebank is discontinued, you may only share configuration files, such as configs.
-- You are free to share rendered singing vocals created with this voicebank.
--We are not responsible for any damage caused by using this voice.
-- We are not obligated to notify you of changes to the terms of use.
 
 
 ## Groups
