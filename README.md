@@ -68,7 +68,6 @@ We are not obligated to notify you of changes to the terms of use.
 
 
 ## Groups
-- [testgroup](https://github.com/ViSingers/group-template)
 
 ## First test bank
 Diffsinger
