@@ -28,10 +28,8 @@ Features 7 different vocal modes:
 - Age: ???
 
 ## Terms of use
-- Voicebank Terms of Use (After downloading, you automatically agree to all terms of use.)
-- When publishing work using this voicebank, you are required to state the name of this voicebank.
-- You are required to state the name of this voicebank's author.
-- When attributing the name or author of this voicebank, you must write the names exactly as written above. You cannot call the voicebank by any other name, nor can you attribute the voicebank to any other author.
+- Commercial Use of Voicebank Allowed: Yes
+- Commercial Use of Character Allowed: Yes
 
 ## Groups
 
