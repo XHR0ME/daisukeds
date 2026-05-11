@@ -33,13 +33,13 @@ Features 7 different vocal modes:
 - Commercial Use of Character Allowed: Yes
 - Attribution: When publishing work using this voicebank, you are required to state the name of this voicebank
 - Attribution: When attributing the name or author of this voicebank, you must write the names exactly as written above. You cannot call the voicebank by any other name, nor can you attribute the voicebank to any other author
-- Usage Content:Do you need the author's permission to create sexual content: No
-- Usage Content:Do you need the author's permission to create political content: Yes
-- Usage Content:Do you need the author's permission to create violent content: No
+- Usage Content: Do you need the author's permission to create sexual content: No
+- Usage Content: Do you need the author's permission to create political content: Yes
+- Usage Content: Do you need the author's permission to create violent content: No
 - Fully prohibited: Criminal or illegal content
 - Fully prohibited: Explicit underage sexual content
 - Fully prohibited: Bigotry and hateful content
-- Fully prohibited:Do not create content that discredits the voicer, fake information,
+- Fully prohibited: Do not create content that discredits the voicer, fake information,
 Do not create religious content that harm others feelings
 - Reverse Engineering: It is strictly prohibited to reverse engineer, decompile, decrypt, extract the model, or perform any similar actions on this VoiceBank
 - Fully prohibited: Porting into another vocal engines is prohibited! (SVS or voice cloning such us RVC)
