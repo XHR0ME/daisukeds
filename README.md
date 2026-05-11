@@ -40,20 +40,15 @@ Features 7 different vocal modes:
 - You don't need author permission to create violent content.
 - Seek author permission to create political content.
 - Commercial Use: Need a permission.
-- 
-## The following types of content are unconditionally prohibited
-- Criminal or illegal content
-- Explicit underage sexual content
-- Bigotry and hateful content
+- Criminal or illegal content prohibited
+- Explicit underage sexual content prohibited
+- Bigotry and hateful content prohibited
 - Do not create content that discredits the voicer, fake information
 - Do not create religious content that harm others feelings.
 - Reverse Engineering: It is strictly prohibited to reverse engineer, decompile, decrypt, extract the model, or perform any similar actions on this VoiceBank.
 - Porting into another vocal engines is prohibited! (SVS or voice cloning such us RVC)
-## Editing
 - You can edit this voicebank's audio in any way.
 - You are free to edit any configuration files.
-
-## Redistribution
 - Before this voicebank is discontinued, you may only share configuration files, such as configs.
 - After this voicebank is discontinued, you may only share configuration files, such as configs.
 - You are free to share rendered singing vocals created with this voicebank.
