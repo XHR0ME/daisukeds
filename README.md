@@ -33,14 +33,6 @@ Features 7 different vocal modes:
 - You are required to state the name of this voicebank's author.
 - When attributing the name or author of this voicebank, you must write the names exactly as written above. You cannot call the voicebank by any other name, nor can you attribute the voicebank to any other author.
 
-## Usage Content
-- You don't need author permission to create sexual content.
-- You don't need author permission to create violent content.
-- Seek author permission to create political content.
-- Commercial Use: Need a permission.
-- Criminal or illegal content prohibited
-
-
 ## Groups
 
 ## Diffsinger Voicebank
