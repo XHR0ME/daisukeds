@@ -27,6 +27,7 @@ Features 7 different vocal modes:
 - Height: 187cm
 - Weight: 85kg
 - Age: ???
+- Meow
 
 ## Terms of use
 - Commercial Use of Voicebank Allowed: Yes
