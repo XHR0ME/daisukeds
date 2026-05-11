@@ -31,13 +31,20 @@ Features 7 different vocal modes:
 ## Terms of use
 - Commercial Use of Voicebank Allowed: Yes
 - Commercial Use of Character Allowed: Yes
+- Attribution: When publishing work using this voicebank, you are required to state the name of this voicebank
+- Attribution: When attributing the name or author of this voicebank, you must write the names exactly as written above. You cannot call the voicebank by any other name, nor can you attribute the voicebank to any other author
+
+## Usage Content
+- Do you need the author's permission to create sexual content: No
+- Do you need the author's permission to create political content: Yes
+- Do you need the author's permission to create violent content: No
 
 ## Groups
 
 ## Diffsinger Voicebank
 Diffsinger
 - Type: Diffsinger
-- Languages: Russian, Japanese, English, Chinese, Korean, Portuguese, French.
+- Languages: Russian, Japanese, English, Chinese, Korean, Portuguese, French
 
 ## Videos
 [![Watch the video](https://img.youtube.com/vi/VtLmICJfHcg/mqdefault.jpg)](https://www.youtube.com/watch?v=VtLmICJfHcg)
