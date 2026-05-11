@@ -1,5 +1,5 @@
 # Daisuke
-[![YouTube Channel](https://img.shields.io/youtube/channel/subscribers/UCdtkaUL2WWS_shXd9Pm8FFw)](https://www.youtube.com/@chr0ma313)
+[![YouTube Channel](https://img.shields.io/youtube/channel/subscribers/UC69YdINkPyzAhs1HilhwGBQ)](https://www.youtube.com/@chr0ma313)
 
 [English](README.md) | [Русский](README.ru.md)
 
